@@ -1,6 +1,6 @@
 # Python in a Minute
 
-<span style="display:block;text-align:center">![WebCubers](repo/cover.jpg "www.WebCUbers.com")<span>
+<p align="center"><a href="https://www.WebCubers.com" target="_blank" rel="noopener noreferrer"><img width="100" src="repo/cover.jpg" alt="WebCubers - Python in a Minute Cover"></a></p>
 
 This repository is related to the "Python in a Minute" training series.
 
