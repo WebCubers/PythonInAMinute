@@ -1,3 +1,5 @@
+![WebCubers](repo/cover.jpg "www.WebCUbers.com")
+
 # Python in a Minute
 
 This repository is related to the "Python in a Minute" training series.
